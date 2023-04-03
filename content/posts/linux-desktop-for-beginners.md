@@ -4,6 +4,7 @@ description: "A guide for beginners on how to use Linux as a daily desktop."
 date: 2023-02-22
 image: linux-computer-hero.jpg
 tags: ["linux", "desktop", "research"]
+draft: true
 ---
 
 If you've stumbled upon this article without even knowing what Linux is, I would recommend that you read [this article](https://www.redhat.com/en/topics/linux/what-is-linux) from Red Hat first. If you already know what Linux is but are unsure whether or not it is the right operating system for you, I would recommend that you read [this article](https://itsfoss.com/linux-better-than-windows/) from It's FOSS! first.

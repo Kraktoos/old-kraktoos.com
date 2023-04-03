@@ -3,6 +3,7 @@ title: "I'm Still on Wikipedia"
 guide: Wikipedia is not that bad.
 date: 2023-03-29
 tags: ["wikipedia", "privacy", "research"]
+draft: true
 ---
 
 Yes.
