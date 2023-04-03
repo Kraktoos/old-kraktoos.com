@@ -1,5 +1,5 @@
 baseURL: "https://kraktoos.com/"
-title: Kraktoos' Website
+title: Kraktoos
 paginate: 5
 theme: PaperMod
 
@@ -19,7 +19,7 @@ params:
   title: Kraktoos
   description: "This is where you'll find stuff about me"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Kraktoos
+  # author: Kraktoos
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -29,8 +29,8 @@ params:
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowBreadCrumbs: false # to disable breadcrumbs
+  ShowCodeCopyButtons: true
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
@@ -39,7 +39,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -52,24 +52,29 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Kraktoos"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+  # profileMode:
+  #   enabled: false # needs to be explicitly set
+  #   title: Kraktoos
+  #   subtitle: "This is subtitle"
+  #   imageUrl: "<img location>"
+  #   imageWidth: 120
+  #   imageHeight: 120
+  #   imageTitle: my image
+  #   buttons:
+  #     - name: Posts
+  #       url: posts
+  #     - name: Tags
+  #       url: tags
+  
+  # home-info mode
+  homeInfoParams:
+    Title: "Hey! \U0001F44B"
+    Content: I'm Kraktoos, a Portuguese high school student and tech enthusiast.
 
   socialIcons:
     - name: mastodon
@@ -94,10 +99,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -111,18 +116,26 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    # - identifier: categories
+    #   name: Categories
+    #   url: /categories/
+    #   weight: 10
+    - identifier: home
+      name: Home
+      url: /
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 20
-    - identifier: kraktoos
-      name: kraktoos.com
-      url: https://kraktoos.com
+    - identifier: tags
+      name: Tags
+      url: /tags/
       weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

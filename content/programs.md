@@ -1,8 +1,8 @@
 ---
 title: "Programs I Use"
+ShowReadingTime: false
+ShowWordCount: false
 ---
-
-# Programs I use, and why
 
 {{< quote author="Linus Torvalds" >}}Software is like sex: It's better when it's free.{{< /quote >}}
 
@@ -74,5 +74,5 @@ I haven't really been editing many videos but when I did, I used {{< logo src="v
 ### Domains
 {{< logo src="namecheap.png" alt="Namecheap logo" >}} [Namecheap](https://www.namecheap.com/). I've been using them for a while now and I've never had any issues with them. They're cheap, reliable and have a great support team.
 
-### Domain DNS
+### DNS Management
 {{< logo src="cloudflare.png" alt="Cloudflare logo" >}} [Cloudflare](https://www.cloudflare.com/). I've been using them for a while now and I've never had any issues with them. They're cheap, reliable and have a great support team.
