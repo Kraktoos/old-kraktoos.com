@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Kraktoos
-  description: "This is where you'll find stuff about me"
+  description: "This is where you'll find stuff about me, Kraktoos!"
   keywords: [Blog, Portfolio, PaperMod]
   # author: Kraktoos
   # author: ["Me", "You"] # multiple authors
