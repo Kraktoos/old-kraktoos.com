@@ -1,12 +1,13 @@
 {{ $src := .Get "src" }}
 {{ $alt := .Get "alt" }}
 {{ $size := .Get "size" }}
+{{ $multiplier := 2 }}
 {{ if not $size }}
-    {{ $size = "x22" }}
+    {{ $size = 22 }}
 {{ end }}
 {{ with resources.Get (printf "images/logos/%s" $src) }}
-    {{ $resized := .Resize $size }}
+    {{ $resized := .Resize (printf "x%d" (mul $size $multiplier)) }}
     {{ with $resized }}
-        <img src="{{ .RelPermalink }}" alt="{{ $alt }}" width="{{ .Width }}" height="{{ .Height }}" style="vertical-align: middle; display: inline; margin: 0;">
+        <img src="{{ .RelPermalink }}" alt="{{ $alt }}" width="{{ div .Width $multiplier }}" height="{{ div .Height $multiplier }}" style="vertical-align: middle; display: inline; margin: 0;">
     {{ end }}
 {{ end }}

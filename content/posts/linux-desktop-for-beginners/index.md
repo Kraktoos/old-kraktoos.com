@@ -1,9 +1,12 @@
 ---
 title: "Linux Desktop for Beginners"
-description: "A guide for beginners on getting into Linux. Terms, concepts, as well as other stuff you need to know not to feel ashamed."
-date: 2023-02-22
+description: "A guide for beginners getting into Linux desktop. Terms, concepts, as well as other essencial stuff you need to know not to feel overwhelmed when talking to another Linux guy."
+date: 2023-04-05
 image: linux-computer-hero.jpg
 tags: ["linux", "desktop", "research"]
+cover:
+  image: "linux-computer-hero.jpg"
+  alt: "Stable Diffusion-Generated Tux Looking at a Laptop"
 draft: true
 ---
 
