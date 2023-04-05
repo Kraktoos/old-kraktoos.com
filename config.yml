@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: "https://kraktoos.com"
 title: Kraktoos
 paginate: 5
 theme: PaperMod
