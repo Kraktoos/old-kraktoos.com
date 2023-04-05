@@ -1,6 +1,6 @@
 ---
 title: "Linux Desktop for Beginners"
-description: "A guide for beginners on how to use Linux as a daily desktop."
+description: "A guide for beginners on getting into Linux. Terms, concepts, as well as other stuff you need to know not to feel ashamed."
 date: 2023-02-22
 image: linux-computer-hero.jpg
 tags: ["linux", "desktop", "research"]
