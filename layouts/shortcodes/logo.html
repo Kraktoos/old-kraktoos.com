@@ -8,6 +8,6 @@
 {{ with resources.Get (printf "images/logos/%s" $src) }}
     {{ $resized := .Resize (printf "x%d" (mul $size $multiplier)) }}
     {{ with $resized }}
-        <img src="{{ .RelPermalink }}" alt="{{ $alt }}" width="{{ div .Width $multiplier }}" height="{{ div .Height $multiplier }}" style="vertical-align: middle; display: inline; margin: 0;">
+        <img src="{{ .RelPermalink }}" alt="{{ $alt }}" width="{{ div .Width $multiplier }}" height="{{ div .Height $multiplier }}" style="vertical-align: middle; display: inline; margin: 0; border-radius: 0;">
     {{ end }}
 {{ end }}

@@ -15,6 +15,10 @@ If you've stumbled upon this article without even knowing what Linux is, I would
 ## How can you use Linux as a daily desktop?
 Using Linux as your daily desktop is easier than you might think. Most Linux distributions come with a user-friendly interface that is similar to Windows or macOS, called a Desktop Environment. Additionally, many Linux distributions come with a suite of pre-installed applications, including web browsers, email clients, and office software.
 
+{{< figure src="kdeplasma.png" alt="KDE Plasma's Interface" caption="KDE Plasma" link="https://kde.org/plasma-desktop/" align=center >}}
+{{< figure src="gnome.png" alt="GNOME's Interface" caption="GNOME" link="https://www.gnome.org/" align=center >}}
+{{< figure src="xfce.jpg" alt="XFCE's Interface" caption="XFCE" link="https://www.xfce.org/" align=center >}}
+
 ## What are the various components of a Linux Desktop?
 
 A Linux desktop typically consists of the following components:
