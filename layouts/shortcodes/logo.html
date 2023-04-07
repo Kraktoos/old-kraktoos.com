@@ -3,7 +3,7 @@
 {{ $size := .Get "size" }}
 {{ $multiplier := 2 }}
 {{ if not $size }}
-    {{ $size = 22 }}
+    {{ $size = 23 }}
 {{ end }}
 {{ with resources.Get (printf "images/logos/%s" $src) }}
     {{ $resized := .Resize (printf "x%d" (mul $size $multiplier)) }}
