@@ -40,7 +40,7 @@ KDE Plasma, GNOME, and Cinnamon are considered more modern and feature-rich desk
 - Consider your **system specs**:
   - If you're running really old hardware, I would recommend [Xfce](https://www.xfce.org/) or [LXQt](https://lxqt-project.org/). They're lightweight and don't require a lot of resources.
   - If you're running newer hardware, most DEs will work just fine. Almost **all DEs run better than Windows**, so you can't go wrong with any of them.
-- If you're on a laptop and want really good gesture support, I would recommend [GNOME](https://www.gnome.org/) (although a lot of other DEs are good enough these days).
+- If you're on a laptop and want fantastic gesture support, I would recommend [GNOME](https://www.gnome.org/) (although a lot of other DEs are good enough these days).
 - Don't choose a *new* and *shiny* DE if you are not experienced enough. **I recommend sticking to the ones I listed above.** They're all **stable** and have a **lot more support**.
 
 After choosing a DE, you can choose a distro that uses that DE.
@@ -48,7 +48,7 @@ After choosing a DE, you can choose a distro that uses that DE.
 ## Choosing a Distro
 
 There are three main types of Linux distros:
-- {{< logo src="debian.png" alt="Debian Logo" >}} **Debian-based distros**: These are known for its stability and reliability. Examples include Ubuntu, Linux Mint, Pop!_OS, Zorin OS, and elementary OS.
+- {{< logo src="debian.png" alt="Debian Logo" >}} **Debian-based distros**: These are known for their stability and reliability. Examples include Ubuntu, Linux Mint, Pop!_OS, Zorin OS, and elementary OS.
 - {{< logo src="arch.png" alt="Arch Linux Logo" >}} **Arch-based distros**: These are known for being on the "bleeding-edge". Examples include Artix, Manjaro, EndeavourOS.
 - {{< logo src="redhat.png" alt="Red Hat Logo" >}} **Red Hat-based distros**: These are known for being the good middle ground between stability and up-to-date software. Examples include Fedora, CentOS, Nobara, Ultramarine, RisiOS, and RHEL.
 
@@ -65,7 +65,7 @@ The two distros that I feel confident recommending to most people are:
 
 ---
 
-If you're still not sure which distro to use, you can install a virtual machine (or live USB) with any one that you want! You don't need to install it on your main computer straight away!
+If you're still not sure which distro to use, you can install a virtual machine (or live USB) with anyone that you want! You don't need to install it on your main computer straight away!
 
 Also, what many people don't know is that any distro can practically be turned into any other distro.
 
