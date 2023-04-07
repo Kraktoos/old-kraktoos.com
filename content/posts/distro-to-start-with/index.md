@@ -6,7 +6,6 @@ tags: ["linux", "desktop", "linux-distros", "question"]
 # cover:
 #   image: "linux-computer-hero.jpg"
 #   alt: "Stable Diffusion-Generated Tux Looking at a Laptop"
-draft: true
 ---
 
 ## It's not a big deal
