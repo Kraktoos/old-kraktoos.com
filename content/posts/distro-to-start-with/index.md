@@ -34,7 +34,7 @@ For beginners, I recommend selecting one of the following DEs:
 
 KDE Plasma, GNOME, and Cinnamon are considered more modern and feature-rich desktop environments, while Xfce, MATE, and LXQT are more lightweight and customizable. All of these options are actively developed/maintained and quite stable.
 
-### Tips for Choosing a Desktop Environment:
+### Tips for Choosing a Desktop Environment
 - ***Don't stress about it***. The more you procrastinate actually choosing a DE, the worse. Most DEs are customizable, so you can make them look and feel however you want after installing them, or even switch to another DE entirely if you ever need to.
 - **Try them out**: Most Linux distributions allow you to test out different DEs before installing them. Take advantage of the opportunity to test different DEs to see which one you prefer. You can use a live USB or a virtual machine to test any DE or Linux distribution.
 - Consider your **system specs**:
@@ -52,7 +52,7 @@ There are three main types of Linux distros:
 - {{< logo src="arch.png" alt="Arch Linux Logo" >}} **Arch-based distros**: These are known for being on the "bleeding-edge". Examples include Artix, Manjaro, EndeavourOS.
 - {{< logo src="redhat.png" alt="Red Hat Logo" >}} **Red Hat-based distros**: These are known for being the good middle ground between stability and up-to-date software. Examples include Fedora, CentOS, Nobara, Ultramarine, RisiOS, and RHEL.
 
-### Tips for Choosing a Linux Distro:
+### Tips for Choosing a Linux Distro
 - Use the same distro as your friends. This will make it easier to help them with their problems, and they can help you with yours.
 - Just like when it comes to your desktop environment, choose a well-known and established distro. They have more support and are usually more trustworthy.
 
