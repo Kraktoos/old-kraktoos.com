@@ -8,7 +8,7 @@ tags: ["linux", "desktop", "linux-distros", "question"]
 #   alt: "Stable Diffusion-Generated Tux Looking at a Laptop"
 ---
 
-## It's not a big deal
+It really doesn't matter.
 
 Beginners often make choosing their first Linux distribution a bigger deal than it needs to be. This is mainly due to the overwhelming number of options available.
 
