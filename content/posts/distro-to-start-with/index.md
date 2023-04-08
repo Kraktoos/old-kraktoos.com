@@ -61,10 +61,13 @@ There are three main types of Linux distros:
 - Just like when it comes to your desktop environment, choose a well-known and established distro. They have more support and are usually more trustworthy.
 
 The two distros that I feel confident recommending to most people are:
-[Fedora](https://getfedora.org/) (Red Hat-based) - This is the distribution that I use and recommend to everyone. It's stable, reliable, and easy to use, with many customization options.
+
+#### [Fedora](https://getfedora.org/) (Red Hat-based)
+- This is the distribution that I use and recommend to everyone. It's stable, reliable, and easy to use, with many customization options.
 - Supported DEs: [GNOME](https://getfedora.org/en/workstation/) (official) and [KDE Plasma](https://spins.fedoraproject.org/en/kde/), [Xfce](https://spins.fedoraproject.org/en/xfce/), [MATE](https://spins.fedoraproject.org/en/mate-compiz/), [Cinnamon](https://spins.fedoraproject.org/en/cinnamon/), [LXQt](https://spins.fedoraproject.org/en/lxqt/), [LXDE](https://spins.fedoraproject.org/en/lxde/) (spins) and [others](https://spins.fedoraproject.org/).
 
-[Linux Mint](https://linuxmint.com/) (Ubuntu-based -> Debian-based) - This is the distribution that I recommend to people who are new to Linux and want a stable experience with very few problems. It's also easy to use and highly customizable. If you're thinking of choosing the [Cinnamon](https://linuxmint.com/download.php) desktop environment, this is the perfect distribution for you, as it's made by the same developers.
+#### [Linux Mint](https://linuxmint.com/) (Ubuntu/Debian-based)
+- This is the distribution that I recommend to people who are new to Linux and want a stable experience with very few problems. It's also easy to use and highly customizable. If you're thinking of choosing the [Cinnamon](https://linuxmint.com/download.php) desktop environment, this is the perfect distribution for you, as it's made by the same developers.
 - Supported DEs: [Cinnamon](https://linuxmint.com/edition.php?id=302) (main), [MATE](https://linuxmint.com/edition.php?id=303), [Xfce](https://linuxmint.com/edition.php?id=304).
 
 ---
