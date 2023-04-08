@@ -27,12 +27,12 @@ params:
   disableThemeToggle: false
 
   ShowFullTextinRSS: true
-  ShowReadingTime: true
-  ShowShareButtons: true
+  ShowReadingTime: false
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: false # to disable breadcrumbs
-  ShowCodeCopyButtons: true
-  ShowWordCount: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -40,7 +40,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: true
+  showtoc: false
   tocopen: false
 
   assets:
@@ -136,9 +136,9 @@ menu:
       name: Tags
       url: /tags/
       weight: 30
-    - identifier: archives
-      name: Archives
-      url: /archives/
+    - identifier: blog
+      name: Blog
+      url: /blog/
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true

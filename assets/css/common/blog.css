@@ -1,0 +1,5 @@
+.blog-title:hover {
+  box-shadow: 0 1px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
