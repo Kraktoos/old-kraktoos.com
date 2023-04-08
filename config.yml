@@ -26,6 +26,7 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
+  ShowFullTextinRSS: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -85,6 +86,8 @@ params:
       url: "https://github.com/kraktoos"
     - name: email
       url: "mailto:hello@kraktoos.com"
+    - name: rss
+      url: /posts/index.xml
 
   # analytics:
   #   google:
