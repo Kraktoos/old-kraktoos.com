@@ -87,7 +87,7 @@ params:
     - name: email
       url: "mailto:hello@kraktoos.com"
     - name: rss
-      url: /posts/index.xml
+      url: /blog/index.xml
 
   # analytics:
   #   google:
