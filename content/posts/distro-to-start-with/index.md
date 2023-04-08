@@ -18,7 +18,7 @@ Many Linux "geeks" recommend choosing a distribution right away, but I disagree.
 
 ## Choosing a Desktop Environment
 
-For beginners, I recommend selecting one of the following DEs:
+For beginners, I recommend selecting one of the following DEs (google their names followed by "desktop environment" to learn more about them/see how they look and function):
 - [KDE Plasma](https://kde.org/plasma-desktop/)
 - [GNOME](https://www.gnome.org/)
 - [Cinnamon](https://wiki.archlinux.org/title/cinnamon)
