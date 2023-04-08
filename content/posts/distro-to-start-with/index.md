@@ -19,17 +19,17 @@ Many Linux "geeks" recommend choosing a distribution right away, but I disagree.
 ## Choosing a Desktop Environment
 
 For beginners, I recommend selecting one of the following DEs:
-- {{< logo src="kdeplasma.png" alt="KDE Plasma logo" >}} [KDE Plasma](https://kde.org/plasma-desktop/)
+- [KDE Plasma](https://kde.org/plasma-desktop/)
 {{< figure src="kdeplasma.png" alt="KDE Plasma's Interface" align=center >}}
-- {{< logo src="gnome.png" alt="GNOME logo" >}} [GNOME](https://www.gnome.org/)
+- [GNOME](https://www.gnome.org/)
 {{< figure src="gnome.png" alt="GNOME's Interface" align=center >}}
-- {{< logo src="cinnamon.png" alt="Cinnamon logo" >}} [Cinnamon](https://wiki.archlinux.org/title/cinnamon)
+- [Cinnamon](https://wiki.archlinux.org/title/cinnamon)
 {{< figure src="cinnamon.webp" alt="Cinnamon's Interface" align=center >}}
-- {{< logo src="xfce.png" alt="Xfce logo" >}} [Xfce](https://www.xfce.org/)
+- [Xfce](https://www.xfce.org/)
 {{< figure src="xfce.jpg" alt="Xfce's Interface" align=center >}}
-- {{< logo src="mate.png" alt="MATE logo" >}} [MATE](https://mate-desktop.org/)
+- [MATE](https://mate-desktop.org/)
 {{< figure src="mate.png" alt="MATE's Interface" align=center >}}
-- {{< logo src="lxqt.png" alt="LXQT logo" >}} [LXQt](https://lxqt-project.org/)
+- [LXQt](https://lxqt-project.org/)
 {{< figure src="lxqt.png" alt="LXQT's Interface" align=center >}}
 
 KDE Plasma, GNOME, and Cinnamon are considered more modern and feature-rich desktop environments, while Xfce, MATE, and LXQT are more lightweight and customizable. All of these options are actively developed/maintained and quite stable.
@@ -48,9 +48,9 @@ After choosing a DE, you can choose a distro that uses that DE.
 ## Choosing a Distro
 
 There are three main types of Linux distros:
-- {{< logo src="debian.png" alt="Debian Logo" >}} **Debian-based distros**: These are known for their stability and reliability. Examples include Ubuntu, Linux Mint, Pop!_OS, Zorin OS, and elementary OS.
-- {{< logo src="arch.png" alt="Arch Linux Logo" >}} **Arch-based distros**: These are known for being on the "bleeding-edge". Examples include Artix, Manjaro, EndeavourOS.
-- {{< logo src="redhat.png" alt="Red Hat Logo" >}} **Red Hat-based distros**: These are known for being the good middle ground between stability and up-to-date software. Examples include Fedora, CentOS, Nobara, Ultramarine, RisiOS, and RHEL.
+- **Debian-based distros**: These are known for their stability and reliability. Examples include Ubuntu, Linux Mint, Pop!_OS, Zorin OS, and elementary OS.
+- **Arch-based distros**: These are known for being on the "bleeding-edge". Examples include Artix, Manjaro, EndeavourOS.
+- **Red Hat-based distros**: These are known for being the good middle ground between stability and up-to-date software. Examples include Fedora, CentOS, Nobara, Ultramarine, RisiOS, and RHEL.
 
 ### Tips for Choosing a Linux Distro
 - Use the same distro as your friends. This will make it easier to help them with their problems, and they can help you with yours.
