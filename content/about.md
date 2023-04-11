@@ -9,7 +9,7 @@ ShowShareButtons: false
 ShowToc: false
 ---
 
-I'm a Portuguese high school student and tech enthusiast currently studying at [Colégio de Gaia](https://www.colgaia.pt)  where I've been learning about general programming, OOP, databases, productivity apps and hardware.
+I'm a Portuguese high school student and tech enthusiast currently studying at [Colégio de Gaia](https://www.colgaia.pt) where I've been learning about general programming, OOP, databases, productivity apps and hardware.
 
 I'm into Tech, Programming, Linux, Free Software and Privacy and I'm currently learning about web development.
 
